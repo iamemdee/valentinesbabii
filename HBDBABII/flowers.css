@@ -1,0 +1,11 @@
+body{
+    background-color: #ad6a11;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; /* Change the direction to column */
+    align-items: center;
+    justify-content: flex-start; /* Align items to the start of the container */
+    overflow: hidden;
+	color: #000000;
+	font-family: courier;
+}
